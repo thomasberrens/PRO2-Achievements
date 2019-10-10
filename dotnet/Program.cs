@@ -6,7 +6,7 @@ namespace programmeren
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("tgtgd!");
         }
     }
 }
