@@ -1,8 +1,8 @@
 
-# PRO2achieve
+# Programmeren 2 Achievements
 Hello world my name is Thomas
 # H1
- GitHub
+ GitHub van Thomas
 ## H2
 Programmeren 2
 ### H3
